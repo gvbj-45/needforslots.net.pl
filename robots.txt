@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://localhost:54467/sitemap.xml
+Sitemap: https://needforslots.net.pl/sitemap.xml
